@@ -1,7 +1,7 @@
 # Colorado historic weather visualization
-This project attempts to provide a visual way to analyze weather trends here in Colorado.
+This project attempts to provide a visual way to analyze weather trends here in Colorado. Initially developed with Fort Collins in mind, has access to data from several weather stations all around Colorado.
 
-It does so via data gathered from CSU's climate center, found [here](https://climate.colostate.edu/data_access_new.html)
+All data used in this project was gathered from [CSU's climate center](https://climate.colostate.edu/data_access_new.html) and the [Applied Climate Information System (ACIS)](rcc-acis.org)
 
 ## Preview
 
